@@ -55,9 +55,6 @@ export default function Home() {
       {/* Hero Section */}
       <Hero />
 
-      {/* Spacer to handle the negative margin cards of Hero */}
-      <div className="h-32 md:h-36 bg-white" />
-
       {/* Haqqında (About) Section */}
       <section id="haqqinda" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
